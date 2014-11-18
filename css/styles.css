@@ -1,5 +1,7 @@
 /* Your Website Styles */
  
+/* Headings */
+
 h1 {
 	font-family: 'Francois One', sans-serif;
 	font-size: 100px;
@@ -7,13 +9,28 @@ h1 {
 
 h2 {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 26px;
+	font-size: 30px;
+	margin-left: 50px;
+}
+
+h2#about {
+	margin-top: -15px;
 }
 
 h3 {
 	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 50px;
+	margin-top: -15px;
+	font-size: 18px;
 }
 
+h4 {
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-left: 50px;
+	margin-top: -15px;
+}
+
+/* Paragraph */
 
 p {
 	font-family: 'Roboto Slab', serif;
@@ -22,6 +39,12 @@ p {
 	font-size: 16px;
 	line-height: 21px;
 	margin-top: -15px;
+	margin-left: 70px;
+	margin-right: 50px;
+}
+
+p#contact {
+	margin-bottom: 30px;
 }
 
 body {
@@ -57,7 +80,7 @@ hr {
 }
 
 /* Footer */
-#footer {
+p#footer {
 	font-size: 13px;
 	text-align: center;
 	color: #ccc;
