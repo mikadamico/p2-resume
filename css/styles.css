@@ -34,7 +34,7 @@ h4 {
 
 p {
 	font-family: 'Roboto Slab', serif;
-	color: #778899;
+	color: #7D7D84;
 	font-weight: 300;
 	font-size: 1em;
 	line-height: 21px;
@@ -100,7 +100,8 @@ hr {
 
 a {
 	text-decoration: none;
-	color: #778899;
+	color: #7D7D84
+;
 }
 
 /* Footer */
