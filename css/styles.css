@@ -56,6 +56,16 @@ div {
 	margin-top: -60px;	x 
 }
 
+.year {
+	font-family: 'Roboto Condensed', sans-serif;
+	background: #ccc;
+	color: black;
+	text-align: center;
+	float: right;
+	width: 150px;
+	margin-top: -40px;
+}
+
 /* Lines */
 
 hr {
