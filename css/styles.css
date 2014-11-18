@@ -68,6 +68,11 @@ div {
 	margin-top: -40px;
 }
 
+li {
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
 /* Lines */
 
 hr {
