@@ -91,6 +91,13 @@ hr {
 	margin: 0 10px -10px 0px;
 }
 
+/* Links */
+
+a {
+	text-decoration: none;
+	color: #778899;
+}
+
 /* Footer */
 
 p#footer {
