@@ -9,19 +9,19 @@ h1 {
 
 h2 {
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 30px;
+	font-size: 2em;
 	margin-left: 50px;
 }
 
 h2#about {
-	margin-top: -15px;
+	margin-top: -20px;
 }
 
 h3 {
 	font-family: 'Roboto Condensed', sans-serif;
 	margin-left: 50px;
 	margin-top: -15px;
-	font-size: 18px;
+	font-size: 1.1em;
 }
 
 h4 {
@@ -36,14 +36,16 @@ p {
 	font-family: 'Roboto Slab', serif;
 	color: #778899;
 	font-weight: 300;
-	font-size: 16px;
+	font-size: 1em;
 	line-height: 21px;
-	margin-top: -15px;
-	margin-left: 70px;
-	margin-right: 50px;
+	margin: -15px 50px 15px 70px;
 }
 
 p#contact {
+	margin-bottom: 30px;
+}
+
+p#work {
 	margin-bottom: 30px;
 }
 
@@ -90,10 +92,12 @@ hr {
 }
 
 /* Footer */
+
 p#footer {
 	font-size: 13px;
 	text-align: center;
 	color: #ccc;
+	margin-top: 40px;
 }
 
 /* Show Grid */
