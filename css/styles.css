@@ -41,12 +41,25 @@ p {
 	margin: -15px 50px 15px 70px;
 }
 
+ul {
+	margin-left: 75px;
+}
+
+li {
+	font-family: 'Roboto Slab', serif;
+	color: #7D7D84;
+}
+
 p#contact {
 	margin-bottom: 30px;
 }
 
 p#work {
 	margin-bottom: 30px;
+}
+
+section {
+	margin-bottom: 42px;
 }
 
 body {
@@ -65,11 +78,6 @@ div {
 	float: right;
 	width: 150px;
 	margin-top: -40px;
-}
-
-li {
-	text-indent: -1em;
-	padding-left: 1em;
 }
 
 /* Lines */
@@ -93,6 +101,15 @@ hr {
 	width: 30px;
 	height: 30px;
 	margin: 0 10px -10px 0px;
+}
+
+.email {
+	width: 35px;
+	height: 35px;
+	margin: 0 10px -10px 0px;
+    -ms-transform: rotate(16deg); /* IE 9 */
+    -webkit-transform: rotate(16deg); /* Chrome, Safari, Opera */
+    transform: rotate(16deg);
 }
 
 /* Links */
